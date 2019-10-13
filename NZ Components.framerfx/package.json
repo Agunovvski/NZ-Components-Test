@@ -2,6 +2,7 @@
 	"main": "dist/index.js",
 	"license": "MIT",
 	"devDependencies": {
+		"@framer/framer.device-skin-apple-iphone-xs-spacegrey": "^1.0.0",
 		"@types/react": "^16.8"
 	},
 	"peerDependencies": {
@@ -11,5 +12,8 @@
 	"framer": {
 		"id": "baf33738-65a5-45b9-aef1-753e7ab4ee7c"
 	},
-	"author": "Agung Beckham"
+	"author": "Agung Beckham",
+	"dependencies": {
+		"@framer/framer.base": "^1.0.0"
+	}
 }
